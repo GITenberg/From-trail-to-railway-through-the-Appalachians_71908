@@ -1,5 +1,8 @@
 _repo: From-trail-to-railway-through-the-Appalachians_71908
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71908-h/images/cover.jpg
 creator:
   author:
     agent_name: Brigham, Albert Perry
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56421
     wikipedia: https://en.wikipedia.org/wiki/Albert_Perry_Brigham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71908#From-trail-to-railway-through-the-Appalachians
 gutenberg_issued: '2023-10-19'
 identifiers:
   gutenberg: '71908'
